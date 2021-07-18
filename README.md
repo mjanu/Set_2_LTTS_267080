@@ -18,7 +18,7 @@ By observing and analyzing the given data we have to predict the price of a hous
 
    |   Name          | Features          |    Issuess Raised |   Issues Resolved |      
    |:---------------:| :---------------: | :---------------:| :---------------:| 
-   | Mondeep Das     | Titanic_challenge     |NIL             |  NIL              |    
+   | Mondeep Das     | Advanced_House_Price     |NIL             |  NIL              |    
 
 
 ## Problems solved
